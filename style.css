@@ -61,6 +61,12 @@ h2 {
   background: #000;
 }
 
+.lower-panel {
+  width: 100%;
+  height: 76px;
+  background: #f2f2f2;
+}
+
 @media (max-width: 959px) {
   .hero {
     padding-top: 1.5rem;
