@@ -35,18 +35,6 @@ h1 {
   font-weight: 700;
 }
 
-h2 {
-  margin: 1.2rem 0 2.4rem;
-  font-size: clamp(1.6rem, 2vw, 2.5rem);
-  line-height: 1.2;
-  font-weight: 300;
-  color: rgba(0, 0, 0, 0.8);
-}
-
-.eyebrow {
-  display: none;
-}
-
 .image-frame {
   display: block;
   width: min(80vw, 1000px);
@@ -72,10 +60,6 @@ h2 {
 
   .title-block {
     padding-bottom: 1rem;
-  }
-
-  h2 {
-    margin-bottom: 1.2rem;
   }
 }
 
